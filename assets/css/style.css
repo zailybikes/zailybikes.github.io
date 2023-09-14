@@ -8,15 +8,18 @@ a{
   top:-470px;
   left:550px;
   position:relative;
+
   
 }
 a:hover{
   color:red;
-  text-decoration: underline;
+  text-decoration: none;
+ 
 }
 #item-select{
   color:red;
-  text-decoration: underline;
+  text-decoration: none;
+  
 }
 #logo{
   position:relative;
